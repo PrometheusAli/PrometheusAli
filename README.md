@@ -30,6 +30,31 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 
 ---
 
+### 🔧 Technical Skills (Visual Logos)
+
+<p>
+  <!-- AutoCAD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" height="46" alt="AutoCAD" />
+  <!-- SolidWorks (if this CDN version fails, replace with the Wikimedia link below) -->
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/solidworks.svg" height="46" alt="SolidWorks" />
+  <!-- Alternative SolidWorks (commented) -->
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SolidWorks_Logo.svg" height="46" alt="SolidWorks" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="46" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" />
+</p>
+
+| Category | Skills |
+|----------|--------|
+| CAD & Modeling | AutoCAD 2D/3D, SolidWorks (parts, introductory assemblies) |
+| Mechanical Fundamentals | Dimensioning & basic tolerances, material basics |
+| Analysis (Basic) | Simple force-area stress checks, foundational geometry reasoning |
+| Documentation | Technical drawings, lab reports, structured measurement tables |
+| Tools (Intro) | AI-assisted design aids, basic workshop measurement instruments |
+| Collaboration | Team drafting, iterative refinement, communication for design clarity |
+
+---
+
 ### 💼 Experience
 
 #### Mechanical Engineering Student Projects (Sep 2023 – Present)
@@ -49,18 +74,6 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 Baku Engineering University, Azerbaijan (Sep 2023 – Present)  
 - GPA: 75.68  
 - Relevant Coursework: Mechanical Design, Engineering Graphics, Material Science, CAD Modeling, SolidWorks practice, basic engineering analysis.
-
----
-
-### 🛠 Technical Skill Summary
-| Category | Skills |
-|----------|--------|
-| CAD & Modeling | AutoCAD 2D/3D, SolidWorks (parts, introductory assemblies) |
-| Mechanical Fundamentals | Dimensioning & basic tolerances, material basics, elementary load reasoning |
-| Analysis (Basic) | Simple force-area stress checks, foundational geometry-driven estimates |
-| Documentation | Technical drawings, lab reports, structured measurement tables |
-| Tools (Intro) | AI-assisted design aids, basic workshop measurement instruments |
-| Collaboration | Team drafting, iterative refinement, communication for design clarity |
 
 ---
 
@@ -86,8 +99,6 @@ Baku Engineering University, Azerbaijan (Sep 2023 – Present)
 ---
 
 ### 📈 GitHub Overview (Dynamic Cards)
-> These cards will display after some activity; you can keep them or remove if minimal commits.
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=PrometheusAli&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli&theme=tokyonight" height="150" />
@@ -121,3 +132,12 @@ Feel free to reach out for collaboration on CAD modeling practice, student mecha
 - Include a “Design Process” section (Concept → Sketch → Parametric Model → Drawing).
 - Publish a small comparison of material choices used in coursework (density vs application).
 - Add English proficiency level once standardized test is completed.
+
+---
+
+### 🔧 If a Logo Does Not Render
+If the SolidWorks logo above does not load, replace that `<img>` tag with:
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SolidWorks_Logo.svg" height="46" alt="SolidWorks" />
+```
+(That is a Wikimedia-hosted SVG.)
