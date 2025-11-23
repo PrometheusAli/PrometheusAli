@@ -45,12 +45,7 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 <!-- SolidWorks Multi-Fallback -->
 <p>
   <!-- 1: Local (əlavə etsən) -->
-  <img src="assets/logos/solidworks.svg" height="46" alt="SolidWorks (Local)" />
-  <!-- 2: Wikimedia -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SolidWorks_Logo.svg" height="46" alt="SolidWorks (Wikimedia)" />
-  <!-- 3: Simple Icons (əgər loqo gəlirsə) -->
-  <img src="https://cdn.simpleicons.org/solidworks/FF0000" height="46" alt="SolidWorks (SimpleIcons)" />
-  <!-- 4: Badge -->
+ 
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white" height="22" alt="SolidWorks Badge" />
   <!-- 5: Inline Base64 Emergency -->
   <img height="46" alt="SolidWorks Inline" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjkwIiBoZWlnaHQ9IjQwIiBmaWxsPSJyZWIiIHJ4PSI2Ii8+PHRleHQgeD0iNDUiIHk9IjI3IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5TVzwvdGV4dD48L3N2Zz4=" />
