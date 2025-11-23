@@ -10,7 +10,7 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 - Baku, Azerbaijan (Khatai district)
 - Email: [ismayilliali25@gmail.com](mailto:ismayilliali25@gmail.com)
 - GitHub: [PrometheusAli](https://github.com/PrometheusAli)
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn:(https://www.linkedin.com/in/%C9%99li-ismay%C4%B1ll%C4%B1-8725a9269/)
 
 ---
 
@@ -39,9 +39,6 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/solidworks.svg" height="46" alt="SolidWorks" />
   <!-- Alternative SolidWorks (commented) -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SolidWorks_Logo.svg" height="46" alt="SolidWorks" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="46" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" />
 </p>
 
 | Category | Skills |
