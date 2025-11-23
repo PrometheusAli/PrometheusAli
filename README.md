@@ -10,7 +10,7 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 - Baku, Azerbaijan (Khatai district)
 - Email: [ismayilliali25@gmail.com](mailto:ismayilliali25@gmail.com)
 - GitHub: [PrometheusAli](https://github.com/PrometheusAli)
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: www.linkedin.com/in/əli-ismayıllı
 
 ---
 
@@ -136,13 +136,5 @@ Feel free to reach out for collaboration on CAD modeling practice, student mecha
 
 ### 💡 Personal Engineering Statement
 > “Accurate drawings and clear documentation turn ideas into reliable mechanical solutions.”
-
----
-
-### ✅ Next Enhancement Ideas for This Profile
-- Add links to sample CAD models (STEP/DXF).
-- Include a “Design Process” section (Concept → Sketch → Parametric Model → Drawing).
-- Publish a small comparison of material choices used in coursework (density vs application).
-- Add English proficiency level once standardized test is completed.
 
 ---
