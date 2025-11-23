@@ -1,50 +1,92 @@
-# Hi 👋 Mənim adım **Ali**
+# Hi 👋 My name is **Ali Ismayilli**
 
-## Mechanical Engineering Student | CAD • Parametric Modeling • Basic Simulation
+## Mechanical Engineering Student | CAD (AutoCAD 2D/3D & SolidWorks) | Mechanical Design | Basic Engineering Analysis
 
-> Dizaynı funksional nəticəyə çevirən iterativ modelləşdirmə həvəskarı.
-
-- 🌍 Bakı, Azərbaycan
-- 🎯 Fokus: AutoCAD & SolidWorks ilə hissə və yığım modelləri, ilkin stress / yük hesablamaları
-- 🧪 25+ fərdi hissə, 6 yığım (assembly) modeli (kurs və mini layihələr)
-- 📐 Ölçüləndirmə & tolerans checklist tətbiqi ilə rəsmdə ölçü səhvləri ≈15% → ≈5%
-- ⚙️ Kiçik dayağın qalınlıq optimallaşdırması ilə kütlə ≈12% azaldıldı
-- 🔎 Məqsəd: Mechanical Design / CAD Intern rolunda real prototip & optimallaşdırma işləri
+I am a Mechanical Engineering student motivated to apply theoretical knowledge to real projects and deliver efficient, reliable engineering solutions. I focus on accurate 2D/3D modeling, clear technical drawings, and basic analytical support for design decisions.
 
 ---
 
-### 🔧 Bacarıqlar
-
-**CAD & Modelləşdirmə:** AutoCAD (2D/3D), SolidWorks (Part, Assembly, Exploded View)  
-**Analiz (Basic):** Statik yük (σ=F/A), sadə şü əyilmə hesabı, material müqayisəsi (kütlə / sərtlik)  
-**Proqramlaşdırma:** C (əsas), Python (skript başlanğıcı), Markdown dokumentasiya  
-**Sənədləşdirmə:** Texniki rəsmlər, revizion etiketi, laborator hesabat formatı  
-**Digər:** Parametrik dizayn yanaşması, versiya adlandırma standartı, ilkin AI-assisted model yoxlaması
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" height="46" alt="AutoCAD"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="46" alt="SolidWorks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="46" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux"/>
-</p>
+### 📍 Location & Contact
+- Baku, Azerbaijan (Khatai district)
+- Email: [ismayilliali25@gmail.com](mailto:ismayilliali25@gmail.com)
+- GitHub: [PrometheusAli](https://github.com/PrometheusAli)
+- LinkedIn: (add your LinkedIn profile link here)
 
 ---
 
-### 🧩 Seçilmiş Layihələr
-
-| Layihə | Problem | Yanaşma | Nəticə / Dəyər |
-|--------|---------|---------|----------------|
-| Mini Gearbox Model | Dişli ötürmə konsepti aydın deyil | SolidWorks Part + Assembly + Exploded view | Qrup testində konsept anlaşılması +18% |
-| Modular Bracket Optimization | Lazımsız material kütləsi | Qalınlıq variasiyası + sadə stress hesabı | Kütlə ≈12% azaldı |
-| Part Catalog Standard | Versiya qarışıqlığı, adlandırma xaosu | Adlandırma şablonu + revizion cədvəli | Versiya səhvləri 5 → 1 hadisə |
-| Lab Report Template | Hesabatlarda struktur fərqliliyi | Standart bölmə (Giriş–Metod–Data–Analiz–Nəticə) | Yoxlama vaxtı ≈10–15% azaldı |
-
-> Real rəqəmləri təsdiqlədikdən sonra yenilə.
+### 🧩 Areas of Expertise
+- AutoCAD (2D/3D)
+- SolidWorks Modeling (parts & basic assemblies)
+- Mechanical Design fundamentals
+- AI-Assisted Design Tools (introductory usage)
+- Engineering Analysis (Basic level: fundamental calculations, simple stress/force relations)
+- Problem-Solving & collaborative draft refinement
 
 ---
 
-### 📊 GitHub Statistikaları
+### 🏅 Key Achievements
+- CAD Design Practice: Produced several course-based mechanical parts and assemblies in AutoCAD & SolidWorks, improving drawing clarity and strengthening 3D modeling skills.
+- Team Project Contribution: Supported a university engineering project with technical drawings and basic analyses, helping timely completion of design requirements.
+
+---
+
+### 💼 Experience
+
+#### Mechanical Engineering Student Projects (Sep 2023 – Present)
+- Completed multiple course projects using AutoCAD (2D/3D) and SolidWorks for mechanical part modeling and technical drawings.
+- Assisted in developing small mechanical prototypes for class assignments, improving team collaboration and design accuracy.
+- Performed basic engineering calculations and analyses to support project decisions (e.g., dimensional fit considerations, simple load/shape checks).
+
+#### Laboratory Practice – Mechanical Systems (Feb 2024 – Jun 2024)
+- Conducted experiments involving mechanical components, materials, and system behavior.
+- Prepared lab reports with accurate measurements, calculations, and structured technical documentation.
+- Gained hands-on experience with basic workshop tools and measurement instruments (calipers, micrometers, basic gauges).
+
+---
+
+### 🎓 Education
+**Bachelor of Mechanical Engineering (English Sector)**  
+Baku Engineering University, Azerbaijan (Sep 2023 – Present)  
+- GPA: 75.68  
+- Relevant Coursework: Mechanical Design, Engineering Graphics, Material Science, CAD Modeling, SolidWorks practice, basic engineering analysis.
+
+---
+
+### 🛠 Technical Skill Summary
+| Category | Skills |
+|----------|--------|
+| CAD & Modeling | AutoCAD 2D/3D, SolidWorks (parts, introductory assemblies) |
+| Mechanical Fundamentals | Dimensioning & basic tolerances, material basics, elementary load reasoning |
+| Analysis (Basic) | Simple force-area stress checks, foundational geometry-driven estimates |
+| Documentation | Technical drawings, lab reports, structured measurement tables |
+| Tools (Intro) | AI-assisted design aids, basic workshop measurement instruments |
+| Collaboration | Team drafting, iterative refinement, communication for design clarity |
+
+---
+
+### 🌐 Languages
+- Azerbaijani (Native)
+- English
+- Turkish
+
+---
+
+### 📜 Certification
+- Bebras International Contest on Informatics and Computational Thinking (Nov 2017)
+
+---
+
+### 📂 Suggested Public Repositories (Planned / To Create)
+| Repository Idea | Purpose |
+|-----------------|---------|
+| cad-course-parts | Collection of course part models with descriptive README & drawing references |
+| mech-lab-notes | Structured lab report templates (method, data, basic calculations) |
+| solidworks-intro-examples | Basic part + simple assembly examples (naming & revision guidelines) |
+
+---
+
+### 📈 GitHub Overview (Dynamic Cards)
+> These cards will display after some activity; you can keep them or remove if minimal commits.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=PrometheusAli&show_icons=true&theme=tokyonight" height="150" />
@@ -56,73 +98,26 @@
 
 ---
 
-### 📚 Hazırda Öyrəndiklərim
-
-- SolidWorks Simulation (FEA) – əsas gərginlik & deformasiya nəticələri
-- Python ilə CAD fayl adlandırmanın yarı-avtomat skripti
-- Material seçimi cədvəli (sıxlıq vs sərtlik vs xərc) mini comparative report
-- GitHub-da açıq “cad-parts-library” repo strukturu
-
----
-
-### 🎓 Təhsil
-
-**Baku Engineering University** – Mechanical Engineering (English Sector)  
-GPA: 75.68 *(dəqiqləşdirilə bilər)*  
-Əsas kurslar: Mechanical Design, Engineering Graphics, Material Science, CAD Modeling, SolidWorks Practice, Basic Engineering Analysis
+### 🔄 Current Focus
+- Strengthening SolidWorks assembly workflows & exploded views
+- Improving clarity in technical drawings (layering, annotations, revision notes)
+- Practicing basic mechanical calculations to inform part dimensions
+- Exploring AI-assisted design checks for early error detection
 
 ---
 
-### 🏅 Sertifikat & Nailiyyət
-
-- “Bebras” Informatics & Computational Thinking – Sistemli problem yanaşması
-- Kurs layihələri üzrə daxili “Part Revision Log” standartının tətbiqi
-- (Əlavə sertifikatları sonra əlavə et: FEA Workshop, Materials Intro və s.)
+### 📬 Get in Touch
+Feel free to reach out for collaboration on CAD modeling practice, student mechanical mini-projects, or documentation improvement.
 
 ---
 
-### 📁 Resurs / Portfel Planı
-
-| Repo Adı | Məqsəd | Status |
-|----------|-------|--------|
-| cad-parts-library | Standart hissə modelləri + README + parametrlər | Plan |
-| bracket-optimization-fea | Qalınlıq variasiyası + ilkin FEA nəticə qrafiki | Draft |
-| lab-report-template | Markdown şablon + nümunə data cədvəli | Plan |
+### 💡 Personal Engineering Statement
+> “Accurate drawings and clear documentation turn ideas into reliable mechanical solutions.”
 
 ---
 
-### 🗣️ Dillər
-
-Azerbaijani (Native) • English (B2/C1) • Turkish (Professional)
-
----
-
-### 📬 Əlaqə
-
-<p>
-  <a href="mailto:ismayilliali25@gmail.com"><img src="https://img.shields.io/badge/Email-ismayilliali25%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ali-ismayilli"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Ismayilli-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/PrometheusAli"><img src="https://img.shields.io/badge/GitHub-PrometheusAli-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-### ✅ Yaxın Addımlar
-
-- FEA nəticə şəkli (stress contour) əlavə
-- Parametrik dizayn üçün “descriptive feature naming” mini qaydalar bölməsi
-- İngilis dili rəsmi sertifikat (IELTS / TOEFL)
-- Layihə README-lərində Problem → Yanaşma → Nəticə şablonunun tam tətbiqi
-
----
-
-### 🧠 Fun Fakt
-
-Parametrik modeldə bir ölçü dəyişikliyini test etməzdən əvvəl kontrollistlə potensial zəncirvari təsirləri qeyd edirəm — bu, montajda sürprizləri azaldır.
-
-> “Design is iteration — measurement makes iteration meaningful.”
-
----
-
-#### Qeyd
-Statistik və faiz dəyərlər real layihə / hesabatların dəqiqləşdirilmiş nəticələri ilə yenilənməlidir. Gələcək FEA nəticələri üçün ayrıca “Simulation” alt bölməsi əlavə oluna bilər.
+### ✅ Next Enhancement Ideas for This Profile
+- Add links to sample CAD models (exported neutral formats: STEP/DXF).
+- Include a “Design Process” section (Concept → Sketch → Parametric Model → Drawing).
+- Publish a small comparison of material choices used in coursework (density vs application).
+- Add English proficiency level once standardized test is completed.
