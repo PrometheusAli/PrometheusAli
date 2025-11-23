@@ -48,7 +48,7 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
  
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white" height="22" alt="SolidWorks Badge" />
   <!-- 5: Inline Base64 Emergency -->
- src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjkwIiBoZWlnaHQ9IjQwIiBmaWxsPSJyZWIiIHJ4PSI2Ii8+PHRleHQgeD0iNDUiIHk9IjI3IiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5TVzwvdGV4dD48L3N2Zz4=" />
+ 
 </p>
 
 | Category | Skills |
