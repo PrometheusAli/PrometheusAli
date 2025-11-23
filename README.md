@@ -137,4 +137,3 @@ If the SolidWorks logo above does not load, replace that `<img>` tag with:
 ```html
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SolidWorks_Logo.svg" height="46" alt="SolidWorks" />
 ```
-(That is a Wikimedia-hosted SVG.)
