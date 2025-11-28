@@ -8,7 +8,7 @@ I am a Mechanical Engineering student motivated to apply theoretical knowledge t
 
 ### 📍 Location & Contact
 - Baku, Azerbaijan (Khatai district)
-- Email: [ismayilliali25@gmail.com](mailto:ismayilliali25@gmail.com)
+- Email: [ismayilliali25@gmail.com](mailto:eismayilli4@std.beu.edu.az)
 - GitHub: [PrometheusAli](https://github.com/PrometheusAli)
 - LinkedIn: www.linkedin.com/in/əli-ismayıllı
 
